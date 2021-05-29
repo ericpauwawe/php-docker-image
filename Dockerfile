@@ -1,5 +1,5 @@
 FROM php:7.4-fpm
-
+MAINTAINER Eric PAUWAWE
 # Arguments defined in docker-compose.yml
 ARG user
 ARG uid
